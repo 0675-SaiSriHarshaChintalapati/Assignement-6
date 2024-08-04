@@ -6,7 +6,6 @@ class Person {
     String name;
     int age;
     double salary;
-
     Person(String name, int age, double salary) {
         this.name = name;
         this.age = age;
